@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "DragDrop TS",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "TS concepts core",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,9 @@
   },
   "keywords": [
     "typescript",
-    "course"
+    "Projects"
   ],
-  "author": "Maximilian Schwarzmüller",
-  "license": "ISC",
+  "author": "Rahul Kumar Maity",
   "devDependencies": {
     "lite-server": "^2.5.4"
   }
